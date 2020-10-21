@@ -1,0 +1,528 @@
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.container img {
+    width: 100%;
+    height: 100%;
+}
+
+.container button {
+    width: 5%;
+    height: 5%;
+    border-radius: 50%;
+}
+
+img {
+    position: static;
+}
+
+.white {
+    background-color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+#R1 {
+    position: absolute;
+    top: 12%;
+    left: 43%;
+}
+
+#R2 {
+    position: absolute;
+    top: 22%;
+    left: 38%;
+}
+
+#R3 {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+
+#R4 {
+    position: absolute;
+    top: 22%;
+    left: 45%;
+}
+
+#R5 {
+    position: absolute;
+    top: 40%;
+    left: 43%;
+}
+
+#R6 {
+    position: absolute;
+    top: 60%;
+    left: 42%;
+}
+
+#R7 {
+    position: absolute;
+    top: 41%;
+    left: 27%;
+}
+
+#R8 {
+    position: absolute;
+    top: 44%;
+    left: 25%;
+}
+
+.R9 {
+    position: absolute;
+    top: 43%;
+    left: 13%;
+}
+
+.R10 {
+    position: absolute;
+    top: 47%;
+    left: 11%;
+}
+
+.R11 {
+    position: absolute;
+    top: 51%;
+    left: 9%;
+}
+
+.R12 {
+    position: absolute;
+    top: 47%;
+    left: 17%;
+}
+
+.R13 {
+    position: absolute;
+    top: 51%;
+    left: 15%;
+}
+
+.R14 {
+    position: absolute;
+    top: 55%;
+    left: 13%;
+}
+
+.R15 {
+    position: absolute;
+    top: 49%;
+    left: 22%;
+}
+
+.R16 {
+    position: absolute;
+    top: 53%;
+    left: 20%;
+}
+
+.R17 {
+    position: absolute;
+    top: 57%;
+    left: 18%;
+}
+
+.R18 {
+    position: absolute;
+    top: 49%;
+    left: 28%;
+}
+
+.R19 {
+    position: absolute;
+    top: 53%;
+    left: 26%;
+}
+
+.R20 {
+    position: absolute;
+    top: 57%;
+    left: 24%;
+}
+
+.R21 {
+    position: absolute;
+    top: 45%;
+    left: 32%;
+}
+
+.R22 {
+    position: absolute;
+    top: 49%;
+    left: 34%;
+}
+
+.R23 {
+    position: absolute;
+    top: 53%;
+    left: 35%;
+}
+
+.R24 {
+    position: absolute;
+    top: 72%;
+    left: 43%;
+}
+
+.R25 {
+    position: absolute;
+    top: 76%;
+    left: 42%;
+}
+
+.R26 {
+    position: absolute;
+    top: 80%;
+    left: 39%;
+}
+
+.R27 {
+    position: absolute;
+    top: 80%;
+    left: 31%;
+}
+
+.R28 {
+    position: absolute;
+    top: 83%;
+    left: 27%;
+}
+
+.R29 {
+    position: absolute;
+    top: 86%;
+    left: 23%;
+}
+
+.R30 {
+    position: absolute;
+    top: 83%;
+    left: 35%;
+}
+
+.R31 {
+    position: absolute;
+    top: 86%;
+    left: 31%;
+}
+
+.R32 {
+    position: absolute;
+    top: 89%;
+    left: 27%;
+}
+
+.R33 {
+    position: absolute;
+    top: 86%;
+    left: 39%;
+}
+
+.R34 {
+    position: absolute;
+    top: 89%;
+    left: 35%;
+}
+
+.R35 {
+    position: absolute;
+    top: 92%;
+    left: 31%;
+}
+
+.R36 {
+    position: absolute;
+    top: 88%;
+    left: 43%;
+}
+
+.R37 {
+    position: absolute;
+    top: 91%;
+    left: 39%;
+}
+
+.R38 {
+    position: absolute;
+    top: 95%;
+    left: 36%;
+}
+
+.R39 {
+    position: absolute;
+    top: 89%;
+    left: 47%;
+}
+
+.R40 {
+    position: absolute;
+    top: 93%;
+    left: 44%;
+}
+
+.R41 {
+    position: absolute;
+    top: 97%;
+    left: 41%;
+}
+
+
+
+
+
+
+#L1 {
+    position: absolute;
+    top: 12%;
+    left: 53%;
+}
+
+#L2 {
+    position: absolute;
+    top: 22%;
+    left: 58%;
+}
+
+#L3 {
+    position: absolute;
+    top: 35%;
+    left: 67%;
+}
+
+#L4 {
+    position: absolute;
+    top: 22%;
+    left: 52%;
+}
+
+#L5 {
+    position: absolute;
+    top: 40%;
+    left: 54%;
+}
+
+#L6 {
+    position: absolute;
+    top: 60%;
+    left: 54%;
+}
+
+#L7 {
+    position: absolute;
+    top: 41%;
+    left: 70%;
+}
+
+#L8 {
+    position: absolute;
+    top: 44%;
+    left: 71%;
+}
+
+.L9 {
+    position: absolute;
+    top: 43%;
+    left: 84%;
+}
+
+.L10 {
+    position: absolute;
+    top: 46%;
+    left: 87%;
+}
+
+.L11 {
+    position: absolute;
+    top: 49%;
+    left: 90%;
+}
+
+.L12 {
+    position: absolute;
+    top: 47%;
+    left: 80%;
+}
+
+.L13 {
+    position: absolute;
+    top: 50%;
+    left: 83%;
+}
+
+.L14 {
+    position: absolute;
+    top: 53%;
+    left: 86%;
+}
+
+.L15 {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+}
+
+.L16 {
+    position: absolute;
+    top: 54%;
+    left: 78%;
+}
+
+.L17 {
+    position: absolute;
+    top: 57%;
+    left: 81%;
+}
+
+.L18 {
+    position: absolute;
+    top: 51%;
+    left: 70%;
+}
+
+.L19 {
+    position: absolute;
+    top: 55%;
+    left: 72%;
+}
+
+.L20 {
+    position: absolute;
+    top: 59%;
+    left: 74%;
+}
+
+.L21 {
+    position: absolute;
+    top: 48%;
+    left: 65%;
+}
+
+.L22 {
+    position: absolute;
+    top: 52%;
+    left: 64%;
+}
+
+.L23 {
+    position: absolute;
+    top: 56%;
+    left: 63%;
+}
+
+.L24 {
+    position: absolute;
+    top: 72%;
+    left: 53%;
+}
+
+.L25 {
+    position: absolute;
+    top: 76%;
+    left: 55%;
+}
+
+.L26 {
+    position: absolute;
+    top: 79%;
+    left: 59%;
+}
+
+.L27 {
+    position: absolute;
+    top: 85%;
+    left: 57%;
+}
+
+.L28 {
+    position: absolute;
+    top: 89%;
+    left: 60%;
+}
+
+.L29 {
+    position: absolute;
+    top: 92%;
+    left: 64%;
+}
+
+.L30 {
+    position: absolute;
+    top: 83%;
+    left: 62%;
+}
+
+.L31 {
+    position: absolute;
+    top: 87%;
+    left: 65%;
+}
+
+.L32 {
+    position: absolute;
+    top: 90%;
+    left: 69%;
+}
+
+.L33 {
+    position: absolute;
+    top: 80%;
+    left: 66%;
+}
+
+.L34 {
+    position: absolute;
+    top: 84%;
+    left: 69%;
+}
+
+.L35 {
+    position: absolute;
+    top: 87%;
+    left: 73%;
+}
+
+.L36 {
+    position: absolute;
+    top: 78%;
+    left: 70%;
+}
+
+.L37 {
+    position: absolute;
+    top: 82%;
+    left: 73%;
+}
+
+.L38 {
+    position: absolute;
+    top: 85%;
+    left: 77%;
+}
+
+.L39 {
+    position: absolute;
+    top: 76%;
+    left: 74%;
+}
+
+.L40 {
+    position: absolute;
+    top: 79%;
+    left: 77%;
+}
+
+.L41 {
+    position: absolute;
+    top: 82%;
+    left: 81%;
+}
